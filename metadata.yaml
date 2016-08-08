@@ -1,0 +1,32 @@
+_repo: Ancient-Nahuatl-Poetry-Containing-the-Nahuatl-Text-of-XXVII-Ancient-Mexican-Poems--13-Brinton__12219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brinton, Daniel G. (Daniel Garrison)
+    aliases:
+    - Brinton, D. G. (Daniel Garrison)
+    - Brinton, Daniel Garrison
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '2993'
+    url: http://www.gutenberg.org/2009/agents/2993
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Garrison_Brinton
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12219'
+language:
+- en
+- nah
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nahuatl language -- Readers'
+- !lcc 'PM'
+- !lcsh 'Nahuatl poetry'
+- GITenberg
+title: "Ancient Nahuatl Poetry, Containing the Nahuatl Text of XXVII Ancient Mexican\
+  \ Poems\r\nBrinton's Library of Aboriginal American Literature Number VII."
+url: http://www.gutenberg.org/ebooks/12219
