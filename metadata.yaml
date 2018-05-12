@@ -1,5 +1,8 @@
 _repo: Ancient-Nahuatl-Poetry-Containing-the-Nahuatl-Text-of-XXVII-Ancient-Mexican-Poems--13-Brinton__12219
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brinton, Daniel G. (Daniel Garrison)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2993
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Garrison_Brinton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12219#Ancient-Nahuatl-Poetry-Containing-the-Nahuatl-Text-of-XXVII-Ancient-Mexican-Poems--13-Brinton_
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
